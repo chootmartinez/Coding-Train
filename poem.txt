@@ -8,4 +8,5 @@ Green
 Yellow
 Red 
 Gold
+Pink
 These are the colors of the rainbow
